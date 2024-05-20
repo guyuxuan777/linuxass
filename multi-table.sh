@@ -1,4 +1,5 @@
 #!/bin/bash
+#Ah
 for((i=1;i<=$1;i++))
 do
 	for((j=1;j<=$2;j++))
